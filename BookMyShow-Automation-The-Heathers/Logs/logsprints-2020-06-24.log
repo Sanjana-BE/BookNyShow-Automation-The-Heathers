@@ -1,0 +1,7 @@
+21:34:42.579 [main] INFO  testCases.TestCases - Browser is invoked
+21:34:53.567 [main] INFO  testCases.TestCases - Website is launched
+21:35:04.867 [main] INFO  testCases.TestCases - Browser window is maximized
+21:35:08.961 [main] INFO  testCases.TestCases - Page Title is stored in a string
+21:35:16.452 [main] INFO  testCases.TestCases - City is selected
+21:35:19.972 [main] INFO  testCases.TestCases - Not now is clicked
+21:35:26.145 [main] INFO  testCases.TestCases - Sign-in button is clicked
